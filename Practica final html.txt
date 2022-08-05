@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head> 
+  <style> </style>
   <title>título página</title>
   <meta charset="UTF-8">
 </head>
@@ -29,13 +30,13 @@
 <li><h3><a href="#Gikan Ryū Koppōjutsu 義鑑流骨法術">Gikan Ryū Koppōjutsu 義鑑流骨法術</a></h3>
 <a href="https://www.akban.org/wiki/Gikan_ryu" target="_blank"> <img style="display: block;-webkit-user-select: none;margin: left;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bujinkanyukanryudojo.com/images/th/sd_5ce03533a9a98.jpg?no_cache=1558204803"></li>
 
-<li><h3><a href="#Togakure Ryū Ninpō (Ninjutsu) 戸隠流忍法)">Togakure Ryū Ninpō (Ninjutsu) 戸隠流忍法)</a></h3> 
+<li><h3><a href="#Togakure Ryū Ninpō  戸隠流忍法)">Togakure Ryū Ninpō  戸隠流忍法)</a></h3> 
 <a href="https://es.wikipedia.org/wiki/Togakure_Ry%C5%AB" target="_blank"> <img style="display: block;-webkit-user-select: none;margin: left;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bujinkanyukanryudojo.com/images/th/sd_5ce03a3b1f867.jpg?no_cache=1558206051"></li>
 
-<li><h3><a href="#Kumogakure Ryū Ninpō (Ninjutsu) 雲隠流忍法">Kumogakure Ryū Ninpō (Ninjutsu) 雲隠流忍法 </a></h3>
+<li><h3><a href="#Kumogakure Ryū Ninpō 雲隠流忍法">Kumogakure Ryū Ninpō 雲隠流忍法 </a></h3>
 <a href="https://es.wikipedia.org/wiki/Kumogakure-ry%C5%AB_Ninp%C5%8D" target="_blank"> <img style="display: block;-webkit-user-select: none;margin: left;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bujinkanyukanryudojo.com/images/th/sd_5ce038868ab51.jpg?no_cache=1558205641"></li>
 
-<li><h3><a href="#Gyokushin Ryū Ninpō (Ninjutsu) 玉心流忍法"> Gyokushin Ryū Ninpō (Ninjutsu) 玉心流忍法 </a></h3>
+<li><h3><a href="#Gyokushin Ryū Ninpō 玉心流忍法"> Gyokushin Ryū Ninpō 玉心流忍法 </a></h3>
 <a href="https://en.wikipedia.org/wiki/Gyokushin-ry%C5%AB_Jujutsu" target="_blank"> <img style="display: block;-webkit-user-select: none;margin: left;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bujinkanyukanryudojo.com/images/th/sd_5ce03906ad8cc.jpg?no_cache=1558205769"></li>
 </ul><br>
 
