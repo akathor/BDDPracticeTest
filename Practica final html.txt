@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>título página</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<h1 style="font-family:arial;font-size:48px;text-align:center;text-decoration:underline;background-color:#070707;color:#FE0C0C">Bujinkan:La casa del divino guerrero</h1>
+
+<<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bujinkanyukanryudojo.com/images/th/sd_60e8da4a7d01e.jpg?no_cache=1625880172">
+<h2 style=""font-family:Georgia;font-size:24px;color:#0C34FE>LAS 9 ESCUELAS DE BUJINKAN DŌJŌ:</h2>
+<p> Click en imágenes para mas informacion </p>
+<ul>
+<li><h3><a href="#Gyokko Ryū Kosshijutsu 玉虎流骨指術">Gyokko Ryū Kosshijutsu 玉虎流骨指術</a></h3>
+<a href="https://es.wikipedia.org/wiki/Gyokko_Ry%C5%AB" target="_blank"> <img style="display: block;-webkit-user-select: none;margin: left;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bujinkanyukanryudojo.com/images/th/sd_5ce02bd59c63a.jpg?no_cache=1558202401"></a></li>
+
+<li><h3><a href="#Kōto Ryū Koppōjutsu 虎倒流骨法術">Kōto Ryū Koppōjutsu 虎倒流骨法術</a></h3>
+<a href="https://es.wikipedia.org/wiki/Koto_Ryu" target="_blank"> <img style="display: block;-webkit-user-select: none;margin: left;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bujinkanyukanryudojo.com/images/th/sd_5ce03511c122e.jpg?no_cache=1558204738"></li>
+
+<li><h3><a href="#Shinden Fudō Ryū Dakentaijutsu  神伝不動流打拳体術">Shinden Fudō Ryū Dakentaijutsu  神伝不動流打拳体術</a></h3>
+<a href="https://en.wikipedia.org/wiki/Shinden_Fudo-ry%C5%AB" target="_blank">  <img style="display: block;-webkit-user-select: none;margin: left;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bujinkanyukanryudojo.com/images/th/sd_5ce03328684ab.jpg?no_cache=1558204243"></li>
+
+<li><h3><a href="#Takagi Yōshin Ryū Jūtaijutsu 高木揚心流柔体術"> Takagi Yōshin Ryū Jūtaijutsu 高木揚心流柔体術 </a></h3>
+<a href="https://en.wikipedia.org/wiki/Tagaki_Yoshin-ry%C5%AB" target="_blank"><img style="display: block;-webkit-user-select: none;margin: left;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bujinkanyukanryudojo.com/images/th/sd_5ce030724282c.jpg?no_cache=1558203579"></li>
+
+<li><h3><a href="#Kukishinden Ryū Happō Bikenjutsu 九鬼神伝流八法秘剣術">Kukishinden Ryū Happō Bikenjutsu 九鬼神伝流八法秘剣術 </a></h3>
+<a href="https://es.wikipedia.org/wiki/Kukishinden_Ryu" target="_blank"> <img style="display: block;-webkit-user-select: none;margin: left;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bujinkanyukanryudojo.com/images/th/sd_5ce03341d178c.jpg?no_cache=1558204294"></li>
+
+<li><h3><a href="#Gikan Ryū Koppōjutsu 義鑑流骨法術">Gikan Ryū Koppōjutsu 義鑑流骨法術</a></h3>
+<a href="https://www.akban.org/wiki/Gikan_ryu" target="_blank"> <img style="display: block;-webkit-user-select: none;margin: left;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bujinkanyukanryudojo.com/images/th/sd_5ce03533a9a98.jpg?no_cache=1558204803"></li>
+
+<li><h3><a href="#Togakure Ryū Ninpō (Ninjutsu) 戸隠流忍法)">Togakure Ryū Ninpō (Ninjutsu) 戸隠流忍法)</a></h3> 
+<a href="https://es.wikipedia.org/wiki/Togakure_Ry%C5%AB" target="_blank"> <img style="display: block;-webkit-user-select: none;margin: left;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bujinkanyukanryudojo.com/images/th/sd_5ce03a3b1f867.jpg?no_cache=1558206051"></li>
+
+<li><h3><a href="#Kumogakure Ryū Ninpō (Ninjutsu) 雲隠流忍法">Kumogakure Ryū Ninpō (Ninjutsu) 雲隠流忍法 </a></h3>
+<a href="https://es.wikipedia.org/wiki/Kumogakure-ry%C5%AB_Ninp%C5%8D" target="_blank"> <img style="display: block;-webkit-user-select: none;margin: left;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bujinkanyukanryudojo.com/images/th/sd_5ce038868ab51.jpg?no_cache=1558205641"></li>
+
+<li><h3><a href="#Gyokushin Ryū Ninpō (Ninjutsu) 玉心流忍法"> Gyokushin Ryū Ninpō (Ninjutsu) 玉心流忍法 </a></h3>
+<a href="https://en.wikipedia.org/wiki/Gyokushin-ry%C5%AB_Jujutsu" target="_blank"> <img style="display: block;-webkit-user-select: none;margin: left;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bujinkanyukanryudojo.com/images/th/sd_5ce03906ad8cc.jpg?no_cache=1558205769"></li>
+</ul><br>
+
+<a name="Gyokko Ryū Kosshijutsu 玉虎流骨指術"></a>
+<h3 style="font-size:24px;font-family:Arial Black">La escuela del tigre adiamantado:</h3>
+<div style="background-color:#EAEADE;font-familyCourier New;font-style:oblique;text-align:center">
+<p>Fué fundada por Hakuunsai Tozawa en el siglo XII (año 1200).<br>
+En sus técnicas utiliza el Kosshijutsu, ataque con los dedos a los kyūsho (puntos vitales).<br>
+
+Dr. Masaaki Hatsumi Sensēi ostenta el título de 28º Sōke (heredero).</p></div>
+
+<a name="Kōto Ryū Koppōjutsu 虎倒流骨法術"></a>
+<h3 style="font-size:24px;font-family:Arial Black">La escuela del tigre derribado:</h3>
+<div style="background-color:#EAEADE;font-familyCourier New;font-style:oblique;text-align:center">
+<p>Fundada por Sakagami Taro Kunishige en el siglo XVI (año 1600).<br> 
+En su técnicas utiliza el Koppōjutsu (romper los huesos del adversario por medio del atemi).<br>
+
+Dr. Masaaki Hatsumi Sensēi ostenta el título de 18º Sōke (heredero).</p></div>
+
+<a name="Shinden Fudō Ryū Dakentaijutsu  神伝不動流打拳体術">
+<h3 style="font-size:24px;font-family:Arial Black">La escuela del corazón inmutable </h3>
+<div style="background-color:#EAEADE;font-familyCourier New;font-style:oblique;text-align:center">
+<p>
+Fundada por Izumo Kanja Yoshiteru en el siglo XII (año 1200).<br>
+ En sus técnicas utiliza el Dakentaijutsu, que consiste en un potente método de golpeo, aunque dentro de la escuela también se estudia Jūtaijutsu.<br>
+
+Dr. Masaaki Hatsumi Sensēi, ostenta el título de 26º Sōke (heredero).</p></div>
+
+<a name="Takagi Yōshin Ryū Jūtaijutsu 高木揚心流柔体術"></a>
+<h3 style="font-size:24px;font-family:Arial Black">La escuela del árbol alto y el corazón enraizado</h3>
+<div style="background-color:#EAEADE;font-familyCourier New;font-style:oblique;text-align:center">
+<p>Fundada por Takagi Oriemon Shigenobu en el siglo XVII (año 1700).<br>
+ Se caracteriza por sus técnicas de Jūtaijutsu, una especie de estilo de Jūjutsu, adaptables a espacios reducidos.<br>
+
+Dr. Masaaki Hatsumi Sensēi ostenta el título de 17º Sōke (heredero).</p></div>
+
+<a name="Kukishinden Ryū Happō Bikenjutsu 九鬼神伝流八法秘剣術"> </a>
+<h3 style="font-size:24px;font-family:Arial Black">La escuela de la tradición de los nueve dioses demonios</h3>
+<div style="background-color:#EAEADE;font-familyCourier New;font-style:oblique;text-align:center">
+<p>Fundada por Izumo Kanja Yoshiteru en el siglo XII (año 1200).<br>
+ La característica de esta escuela es el Happō Bikenjutsu. En esta tradición se entrena el Yoroi Kumiuchi (lucha con armadura), además de un gran número de armas.<br>
+Dr. Masaaki Hatsumi Sensēi ostenta el título de 28º Sōke (heredero).</p></div>
+
+<a name="Gikan Ryū Koppōjutsu 義鑑流骨法術"</a>
+<h3 style="font-size:24px;font-family:Arial Black">La escuela del la verdad, la lealtad y la justicia</h3>
+<div style="background-color:#EAEADE;font-familyCourier New;font-style:oblique;text-align:center">
+<p>Fundada por Unryū Hangan Gikanbo en el siglo XVI (año 1600). <br>
+También utiliza el Koppōjutsu.<br>
+Dr. Masaaki Hatsumi Sensēi ostenta el título de 15º Sōke (heredero).</p></div>
+
+<a name="Togakure Ryū Ninpō (Ninjutsu) 戸隠流忍法)"></a>
+<h3 style="font-size:24px;font-family:Arial Black">La escuela de la puerta escondida</h3>
+<div style="background-color:#EAEADE;font-familyCourier New;font-style:oblique;text-align:center">
+<p>Fundada por Daisuke Nishina en el siglo XII (año 1200).<br>
+ Entre sus armas más conocidas podemos encontrar el shukō o el senban shūriken.<br>
+Dr. Masaaki Hatsumi Sensēi ostenta el título de 34º Sōke (heredero).</p></div>
+
+<a name="Kumogakure Ryū Ninpō (Ninjutsu) 雲隠流忍法"></a>
+<h3 style="font-size:24px;font-family:Arial Black">La escuela escondida en las nubes</h3>
+<div style="background-color:#EAEADE;font-familyCourier New;font-style:oblique;text-align:center">
+<p>Fundada por Heinaizaemon Ienaga Iga en el siglo XVI (año 1600).<br>
+ En su técnica utiliza el Kamayari. <br>
+Dr. Masaaki Hatsumi Sensēi ostenta el título de 14º Sōke (heredero).</p></div>
+
+<a name="Gyokushin Ryū Ninpō (Ninjutsu) 玉心流忍法"></a>
+<h3 style="font-size:24px;font-family:Arial Black;">La escuela del corazón inmutable: </h3>
+<div style="background-color:#EAEADE;font-familyCourier New;font-style:oblique;text-align:center">
+<p>Fundada por <span style="font-weight:bolder">Sasaki Goemon Teruyoshi.</span> Existe otra hipótesis en la que se dice que el fundador fué<span style="font-weight:bolder">  Sasaki Orouemon Akiyari.</span><br>
+ Esta escuela es originalmente de Ninpō, y su fecha de creación es desconocida.<br>
+ Se caracteriza por el uso del sutemi.<br>
+Dr. Masaaki Hatsumi Sensēi ostenta el título de 21º Sōke (heredero).</p></div>
+
+</body>
+</html>
